@@ -24,7 +24,7 @@
 ---
 
 ## 📸 App Preview
-
+![alt text](screenshots/screencapture-localhost-8501-2026-05-20-22_24_04.png)
 ---
 
 ## 🚀 Features
